@@ -36,7 +36,7 @@ RepliQ utilise :
 - Vous pouvez demander la suppression de toutes vos données à tout moment
 
 **6. Sécurité**
-RepliQ met en œuvre des mesures de sécurité appropriées pour protéger vos données contre tout accès non autorisé, modification ou suppression.
+RepliQ met en œuvre des mesures de sécurité appropriées pour protéger vos données contre tout accès non autorisé, modification ou suppression. <br>
 **7. Vos droits**
 Vous avez le droit de :
 
