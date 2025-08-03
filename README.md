@@ -51,6 +51,7 @@ Vous avez le droit de :
 **8. Contact**
 
 Pour toute question concernant cette politique ou vos données personnelles :
+
 **Email :** contact@repliq.be
 
 **9. Modifications**
