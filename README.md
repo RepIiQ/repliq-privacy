@@ -1,10 +1,9 @@
 # repliq-privacy
 Politique de Confidentialité <br>
 
-Politique de Confidentialité <br>
 1. Données collectées <br>
 RepliQ collecte les données suivantes : <br>
-<br>
+
 Adresse email : pour la création et gestion de votre compte <br>
 ID utilisateur : identifiant unique généré automatiquement <br>
 ID de l'appareil : pour la sécurité et la gestion des sessions <br>
