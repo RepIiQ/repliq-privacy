@@ -36,8 +36,11 @@ RepliQ utilise :
 - Vous pouvez demander la suppression de toutes vos données à tout moment
 
 **6. Sécurité**
-RepliQ met en œuvre des mesures de sécurité appropriées pour protéger vos données contre tout accès non autorisé, modification ou suppression. <br>
+
+RepliQ met en œuvre des mesures de sécurité appropriées pour protéger vos données contre tout accès non autorisé, modification ou suppression.
+
 **7. Vos droits**
+
 Vous avez le droit de :
 
 - Accéder à vos données personnelles
@@ -46,7 +49,10 @@ Vous avez le droit de :
 - Vous opposer au traitement de vos données
 
 **8. Contact**
+
 Pour toute question concernant cette politique ou vos données personnelles :
 **Email :** contact@repliq.be
+
 **9. Modifications**
+
 Cette politique peut être mise à jour. Les modifications importantes vous seront notifiées via l'application ou par email.
